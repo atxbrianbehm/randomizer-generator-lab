@@ -1,0 +1,6 @@
+{
+  "name": "example",
+  "grammar": {
+    "origin": ["Hello, world!", "Goodbye, world!"]
+  }
+}
