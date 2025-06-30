@@ -1,1 +1,8 @@
-node_modulesndistn
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache
+.vite/
